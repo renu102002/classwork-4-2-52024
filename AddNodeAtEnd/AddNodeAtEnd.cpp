@@ -43,6 +43,7 @@ void append(Node** head_ref, int new_data) {
 
 
     // 2. Put in the data
+    // Changes
 
     new_node->data = new_data;
 
